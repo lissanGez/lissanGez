@@ -62,7 +62,7 @@ ___
 
 ___
 
-### :fire: My Other Skills :
+### :woman_office_worker: Skills :
 
 - :speaking_head: Good communication skill
 
