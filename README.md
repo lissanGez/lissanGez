@@ -8,3 +8,25 @@
   </a>
 
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+___
+
+
+
+### :woman_technologist: About Me :
+
+
+I am a woman Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+
+- :woman_in_tuxedo: Currently I am working as an Office Admin.
+  
+- :telescope: I have back end software development experience.
+
+
+- :zap: I spend my spare time by practicing front end and back end programming.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lissan-gezahegn-828225226/))
